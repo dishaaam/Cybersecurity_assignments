@@ -79,6 +79,7 @@ Choice: 1
 Output:
 Nmap scan report for google.com
 Host is up
+OS: Windows
 
 ---
 
@@ -92,6 +93,7 @@ Output:
 PORT     STATE SERVICE
 80/tcp   open  http
 443/tcp  open  https
+OS: Windows
 
 ---
 
@@ -104,6 +106,7 @@ Choice: 3
 Output:
 PORT     STATE SERVICE VERSION
 80/tcp   open  http    Apache
+OS: Windows
 
 ---
 
@@ -117,6 +120,7 @@ Output:
 PORT     STATE SERVICE
 22/tcp   open  ssh
 80/tcp   open  http
+OS: Windows
 
 
 ---
