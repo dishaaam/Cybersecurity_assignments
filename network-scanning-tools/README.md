@@ -47,7 +47,6 @@ python nmap_scanner.py
 ### Ping Scanner
 
 Input:
-google.com, 127.0.0.1, 8.8.8.8
 
 Output:
 
